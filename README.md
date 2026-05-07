@@ -25,8 +25,8 @@ Funcionalidades:
 
 Pasta:
 
+```text
 versao_1_simples/
-Versão 2 - Persistência com JSON
 
 Nesta segunda versão, foi adicionada a persistência dos dados em um arquivo JSON.
 
